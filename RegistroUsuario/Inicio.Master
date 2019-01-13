@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title>Pagina de inicio</title>
+    <title>Registro De Usuario</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 
